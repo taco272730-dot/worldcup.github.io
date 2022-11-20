@@ -1026,7 +1026,7 @@ body{
 
 	/*第三區*/
 	.zone03{
-		background: url("../images/game_bg.jpg") center no-repeat fixed;
+		background: url("../images/game_bg_h5.jpg") center no-repeat;
 		background-size: cover;
 	}
 	.zone03_center{
