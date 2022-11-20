@@ -1023,6 +1023,9 @@ body{
 	.textcontent_1_z2{
 		padding: 0 0 30px;
 	}
+	.force_none{
+		display: none;
+	}
 
 	/*第三區*/
 	.zone03{

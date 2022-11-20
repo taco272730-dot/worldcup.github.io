@@ -133,9 +133,9 @@
 		font-size: 22px;
 		margin-bottom: 25px;
 		padding: 15px 0;
-		background: -moz-linear-gradient(top,#b74cd1 0%,#801498 94%,#57117f 95%,#57117f 95%,#57117f 100%);
-		background: -webkit-linear-gradient(top,#b74cd1 0%,#801498 94%,#57117f 95%,#57117f 95%,#57117f 100%);
-		background: linear-gradient(to bottom,#b74cd1 0%,#801498 94%,#57117f 95%,#57117f 95%,#57117f 100%);
+		background: -moz-linear-gradient(top,#4cd1c5 0%,#0e6f6d 94%,#498d7c 95%,#498d7c 95%,#498d7c 100%);
+		background: -webkit-linear-gradient(top,#4cd1c5 0%,#0e6f6d 94%,#498d7c 95%,#498d7c 95%,#498d7c 100%);
+		background: linear-gradient(to bottom,#4cd1c5 0%,#0e6f6d 94%,#498d7c 95%,#498d7c 95%,#498d7c 100%);
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2c36d',endColorstr='#ad6322',GradientType=0 );
 		-webkit-box-shadow: inset 3px 4px 0 rgba(255,255,255,.5);
 		box-shadow: inset 3px 4px 0 rgba(255,255,255,.5);
