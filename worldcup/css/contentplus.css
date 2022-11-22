@@ -139,6 +139,7 @@
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2c36d',endColorstr='#ad6322',GradientType=0 );
 		-webkit-box-shadow: inset 3px 4px 0 rgba(255,255,255,.5);
 		box-shadow: inset 3px 4px 0 rgba(255,255,255,.5);
+		animation: flush 1s infinite;
 	}
 	.z02_l {
 		width: 88%;
