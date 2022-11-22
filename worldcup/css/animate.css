@@ -3621,3 +3621,20 @@
     transition: none !important;
   }
 }
+@keyframes flush {
+  0% {
+      filter: brightness(1);
+      box-shadow: 0 0 0 #ffffff00;
+      transform: scale(1);
+  }
+  50% {
+      filter: brightness(1.5);
+      box-shadow: 0 0 10px 5px #ffffff87;
+      transform: scale(1.03);
+  }
+  100% {
+      filter: brightness(1);
+      box-shadow: 0 0 0 #ffffff00;
+      transform: scale(1);
+  }
+}
