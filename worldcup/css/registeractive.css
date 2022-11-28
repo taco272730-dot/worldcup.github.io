@@ -92,7 +92,7 @@ body{
 	.zone01{
 		width: 100%;
 		height: 924px;
-		background: url("../images/z01_bg.jpg") center no-repeat;
+		background: url("../images/z01_bg.jpg") top center no-repeat fixed;
 
 	}
 	.zone01_center{
@@ -102,7 +102,7 @@ body{
 		/*min-width: 1000PX;*/
 		height: 924px;
 		margin: 0 auto;
-		background: url("../images/z01_bg.jpg") center no-repeat;
+		/* background: url("../images/z01_bg.jpg") center no-repeat; */
 		/*background-color: aqua;*/
 	}
 	.z01_slogan{
@@ -125,10 +125,10 @@ body{
 	}
 	.z01_girlcover{
 		position: absolute;
-		width: 1600px;
+		width: 2560px;
 		height: 493px;
 		bottom: 0;
-		left: -200px;
+		left: -678px;
 		background: url("../images/legcover.png") center no-repeat;
 	}
 	.loginaria{
